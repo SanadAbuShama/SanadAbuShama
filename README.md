@@ -1,4 +1,4 @@
-# Welcome to My GitHub
+# Hello there, welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SanadAbuShama&show_icons=true&theme=gruvbox"/>
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanadAbuShama&layout=compact"/>
 <hr/>
@@ -13,3 +13,4 @@
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sanad-abu-shama"> <img src="assets/linkedIn.svg" /> </a>
