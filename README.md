@@ -17,7 +17,9 @@
 <hr/>
 
 ### Contact Me:
-<a align="left" target="_blank" href="https://www.linkedin.com/in/sanad-abu-shama"><img style="width:35px" src="assets/linkedIn2.svg"/></a>  
-<a align="left" href="mailto:abushamasanad@hotmail.com"><img style="width:35px" src="assets/email.svg"/></a>    
-<a align="left" href="mailto:abushamasanad@hotmail.com">abushamasanad@hotmail.com</a>  
-<a align="left" href="https://sanadabushama.github.io/">My Portfolio</a>
+<a align="left" target="_blank" href="https://www.linkedin.com/in/sanad-abu-shama"><img style="width:35px" src="assets/linkedIn2.svg"/></a>
+<a align="left" href="mailto:abushamasanad@hotmail.com"><img style="width:35px" src="assets/email.svg"/></a>   
+<hr/>
+
+### My Portfolio:
+<a align="left" href="https://sanadabushama.github.io/"><img style="width:35px" src="assets/portfolio.svg" /></a>
