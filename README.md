@@ -13,4 +13,4 @@
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<a href="https://www.linkedin.com/in/sanad-abu-shama"> <img src="assets/linkedIn.svg" /> </a>
+<a target="_blank" href="https://www.linkedin.com/in/sanad-abu-shama"><img src="assets/linkedIn.svg" /></a>
