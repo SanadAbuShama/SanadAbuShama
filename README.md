@@ -5,7 +5,7 @@
 
 ### Contact Me:
 <a align="left" target="_blank" href="https://www.linkedin.com/in/sanad-abu-shama"><img style="width:35px" src="assets/linkedIn2.svg"/></a>
-<a align="left" href="mailto:abushamasanad@hotmail.com"><img style="width:35px" src="assets/email.svg"/></a>   
+<a align="left" href="mailto:abushamasanad@gmail.com"><img style="width:35px" src="assets/email.svg"/></a>   
 <hr/>
 
 ### My Portfolio:
