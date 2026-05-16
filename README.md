@@ -1,8 +1,4 @@
 # Hello there, welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SanadAbuShama&show_icons=true&theme=gruvbox"/>
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanadAbuShama&layout=compact"/>
-<hr/>
-
 ### Technical Skills:
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
